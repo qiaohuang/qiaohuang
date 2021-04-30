@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 ![protonmail-badge](https://img.shields.io/badge/qiaohuang@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white)
 ![telegram-badge](https://img.shields.io/badge/qiaohuang-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
+**Stats:**
+
+![readme-stats](https://github-readme-stats.vercel.app/api?username=qiaohuang&bg_color=0,12c2e9,c471ed,f64f59&title_color=fff&text_color=fff&hide=stars,contribs)
+
 **Languages & Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -36,11 +40,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-
-**Stats:**
-
-![readme-stats](https://github-readme-stats.vercel.app/api?username=qiaohuang&bg_color=0,12c2e9,c471ed,f64f59&title_color=fff&text_color=fff&hide=stars,contribs)
 
 <details>
   <summary><a href="#"><img valign="middle" width="100" src="https://raw.githubusercontent.com/qiaohuang/qiaohuang/main/matryoshka.png"/></a></summary>
