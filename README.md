@@ -69,7 +69,7 @@ Here are some ideas to get you started:
               <summary><a href="#"><img valign="middle" width="40" src="https://raw.githubusercontent.com/qiaohuang/qiaohuang/main/matryoshka.png"/></a></summary>
               <details>
                 <summary><a href="#"><img valign="middle" width="30" src="https://raw.githubusercontent.com/qiaohuang/qiaohuang/main/matryoshka.png"/></a></summary>
-                :octocat::rainbow_flag:
+                :octocat::rainbow_flag: <sub>secrets placeholder, to be added.</sub>
               </details>
             </details>
           </details>
