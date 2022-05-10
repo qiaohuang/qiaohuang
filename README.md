@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![wechat-badge](https://img.shields.io/badge/uniQiao-07C160?style=flat-square&logo=wechat&logoColor=white)](/wechat-qrcode.png)
 [![twitter-badge](https://img.shields.io/badge/qiaohuang__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/qiaohuang_)
 [![gmail-badge](https://img.shields.io/badge/qiaohuang.ds@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:qiaohuang.ds@gmail.com)
-[![protonmail-badge](https://img.shields.io/badge/qiaoh@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:qiaoh@protonmail.com)
+[![protonmail-badge](https://img.shields.io/badge/qiaohuang@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:qiaohuang@proton.me)
 [![telegram-badge](https://img.shields.io/badge/qiaohuang-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/qiaohuang)
 
 **Stats:**
