@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 **Stats:**
 
-![readme-stats](https://github-readme-stats.vercel.app/api?username=qiaohuang&bg_color=0,12c2e9,c471ed,f64f59&title_color=fff&text_color=fff&hide=stars,contribs)
+![readme-stats](https://github-readme-stats.vercel.app/api?username=qiaohuang&bg_color=0,12c2e9,c471ed,f64f59&title_color=fff&text_color=fff&hide=stars,contribs&count_private=true)
 
 **Languages & Tools:**
 
